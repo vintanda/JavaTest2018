@@ -1,4 +1,4 @@
-package forOffer;
+package forOffer2;
 
 public class TreeNode {
     int val = 0;
@@ -7,6 +7,5 @@ public class TreeNode {
 
     public TreeNode(int val) {
         this.val = val;
-
     }
 }
