@@ -1,10 +1,10 @@
 /**
- * @Date 2018/07/24
+ * @Date 2018/08/08
  * @Author LZD
  *
  * 该类用于为某些题目提供数据结构
  */
-package forOffer3;
+package forOffer5;
 
 public class ListNode {
     int val;
